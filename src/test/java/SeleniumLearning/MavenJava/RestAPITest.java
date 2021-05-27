@@ -7,6 +7,8 @@ public class RestAPITest {
 	@Test
 	public void GetCall() {
 		System.out.println("GetCall");
+		System.out.println("GetCall2");
+		System.out.println("GetCall3");
 	}
 
 	@Test
