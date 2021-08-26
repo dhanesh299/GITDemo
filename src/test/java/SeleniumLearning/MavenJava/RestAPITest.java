@@ -9,7 +9,8 @@ public class RestAPITest {
 		System.out.println("GetCall");
 		System.out.println("GetCall2");
 		System.out.println("GetCall3");
-		System.out.println("GetCall4")
+		System.out.println("GetCall4");
+		System.out.println("GetCall5");
 	}
 
 	@Test
