@@ -1,9 +1,4 @@
 Names
-a
-b
-c
-def
-ghi
 
 Numbers
 1
