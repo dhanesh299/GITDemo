@@ -13,4 +13,9 @@ public class SeleniumTest {
 	public void MobileWeb() {
 		System.out.println("MobileWeb");
 	}
+	
+	@Test
+	public void TabletWeb() {
+		System.out.println("MobileWeb");
+	}
 }
