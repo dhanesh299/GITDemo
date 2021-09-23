@@ -11,11 +11,12 @@ public class SeleniumTest {
 	
 	@Test
 	public void MobileWeb() {
-		System.out.println("MobileWeb");
+		System.out.println("MobileWeb55555");
 	}
 	
 	@Test
 	public void TabletWeb() {
 		System.out.println("MobileWeb");
+		System.out.println("MobileWeb555555555");
 	}
 }
